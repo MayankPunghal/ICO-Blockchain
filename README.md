@@ -12,8 +12,7 @@ These the main functions that the project implements :-
                          // - From account must have sufficient balance to transfer
                          // - Spender must have sufficient allowance to transfer
                          // - 0 value transfers are allowed
- - allowance             // Returns the amount of tokens approved by the owner that can be
-                         // transferred to the spender's account
+ - allowance             // Returns the amount of tokens approved by the owner that can be transferred to the spender's account
                          
                          
 Student  Details:-
